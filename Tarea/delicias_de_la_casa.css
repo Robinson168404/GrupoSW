@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 0.8;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+header{
+    background: orangered;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+nav a{
+    margin: 0 10px;
+}
+main{
+    max-width: 922px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+}
+table{
+    width: 100px;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+    padding: 10px 10px;
+    background-color: #34383a;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 902px;
+}
+footer a{
+    color: white;
+}
